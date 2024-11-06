@@ -7,6 +7,6 @@ https://www.codewars.com/kata/57eae20f5500ad98e50002c5
 
 
 
-function removeSpaces(str) {
-    return str.replace(/\s+/g, '');
+function noSpace(x) {
+    return x.replace(/\s+/g, '');
 }
